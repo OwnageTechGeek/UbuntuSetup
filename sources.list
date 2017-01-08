@@ -8,11 +8,11 @@ deb http://us.archive.ubuntu.com/ubuntu/ precise main restricted universe multiv
 deb-src http://us.archive.ubuntu.com/ubuntu/ precise main restricted universe 
 
 ###### Ubuntu Update Repos
-deb http://us.archive.ubuntu.com/ubuntu/ precise-security main restricted universe multiverse 
-deb http://us.archive.ubuntu.com/ubuntu/ precise-updates main restricted universe multiverse 
-deb http://us.archive.ubuntu.com/ubuntu/ precise-proposed main restricted universe multiverse 
-deb http://us.archive.ubuntu.com/ubuntu/ precise-backports main restricted universe multiverse 
-deb-src http://us.archive.ubuntu.com/ubuntu/ precise-security main restricted universe 
-deb-src http://us.archive.ubuntu.com/ubuntu/ precise-updates main restricted universe 
-deb-src http://us.archive.ubuntu.com/ubuntu/ precise-proposed main restricted universe 
-deb-src http://us.archive.ubuntu.com/ubuntu/ precise-backports main restricted universe 
+deb http://aptmirror.intranet.netinc/ubuntu/ precise-security main restricted universe multiverse 
+deb http://aptmirror.intranet.netinc/ precise-updates main restricted universe multiverse 
+deb http://aptmirror.intranet.netinc/ precise-proposed main restricted universe multiverse 
+deb http://aptmirror.intranet.netinc/ precise-backports main restricted universe multiverse 
+deb-src http://aptmirror.intranet.netinc/ precise-security main restricted universe 
+deb-src http://aptmirror.intranet.netinc/ precise-updates main restricted universe 
+deb-src http://aptmirror.intranet.netinc/ precise-proposed main restricted universe 
+deb-src http://aptmirror.intranet.netinc/ precise-backports main restricted universe 
