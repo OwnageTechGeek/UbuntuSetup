@@ -3,6 +3,6 @@
 
 cd ~/
 wget https://github.com/OwnageTechGeek/UbuntuSetup/archive/master.zip
-sudo apt-get install unzip -y
-unzip
+apt-get install unzip -y
+unzip master
 sh setup.sh
