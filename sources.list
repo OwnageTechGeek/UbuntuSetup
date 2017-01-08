@@ -4,8 +4,8 @@
 
 
 ###### Ubuntu Main Repos
-deb http://us.archive.ubuntu.com/ubuntu/ precise main restricted universe multiverse 
-deb-src http://us.archive.ubuntu.com/ubuntu/ precise main restricted universe 
+deb http://aptmirror.intranet.netinc/ precise main restricted universe multiverse 
+deb-src http://aptmirror.intranet.netinc/ precise main restricted universe 
 
 ###### Ubuntu Update Repos
 deb http://aptmirror.intranet.netinc/ubuntu/ precise-security main restricted universe multiverse 
